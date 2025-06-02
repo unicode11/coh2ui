@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coh2ui", "coh2ui\coh2ui.csproj", "{389219C6-627F-4BFB-AF89-8C0225C997BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coh2ui", "coh2ui.csproj", "{389219C6-627F-4BFB-AF89-8C0225C997BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
