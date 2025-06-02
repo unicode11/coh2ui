@@ -23,12 +23,12 @@ public partial class MainWindow : Window
 
     private void AddButton(object sender, RoutedEventArgs e)
     {
-        throw new NotImplementedException();
+        AddWindow cum = new AddWindow();
+        cum.ShowDialog();
     }
 
     private void EditButton(object sender, RoutedEventArgs e)
     {
-        throw new NotImplementedException();
     }
 
     private void DeleteButton(object sender, RoutedEventArgs e)
@@ -38,7 +38,7 @@ public partial class MainWindow : Window
 
     private void NineButton(object sender, RoutedEventArgs e)
     {
-        throw new NotImplementedException();
+        MessageBox.Show("ᗜ˰ᗜ", "ᗜ˰ᗜ");
     }
 
     private void KeysList_OnMouseDoubleClickClicked(object sender, MouseButtonEventArgs e)
